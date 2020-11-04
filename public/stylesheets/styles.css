@@ -5,3 +5,23 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f7f9f9;
+    background-color: #2081c3;
+    transform-style: none;
+}
+
+.navbar a{
+    color: #f7f9f9;
+    padding-left: 20px
+}
+.jola{
+    display: flex;
+    margin: auto
+}
